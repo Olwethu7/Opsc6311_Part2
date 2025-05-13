@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220599535819",
+    "project_id": "sample-firebase-ai-app-d2cb9",
+    "storage_bucket": "sample-firebase-ai-app-d2cb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220599535819:android:e0583dddd836fe3483f34e",
+        "android_client_info": {
+          "package_name": "com.example.speedwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTpNY-mYjm_JHVk_DNvtkJWe2Uri9zt7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
